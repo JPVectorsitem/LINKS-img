@@ -1,2 +1,2 @@
 id,os,regional,tipo_loja,tipo_job,acao_nacional,tabloide_nome,complemento,tamanho_pagina,qtd_paginas,estado_filiais,observacao,vai_dashboard,status,status_step,workflow,criado_em,atualizado_em
-1,WV-20251002182310,REGIONAL BA - SE,AS,Tabloide Digital,Não,ofe sem,asa,A3,2,"[{""estado"":""BA"",""filial"":""v1"",""ini"":""2025-10-06"",""fim"":""2025-10-09""}]",,Sim,Lista recebida,lista,"[{""estado"":""BA"",""filial"":""v1"",""ini"":""2025-10-06"",""fim"":""2025-10-09"",""logs"":{""lista"":[{""nome"":""asda"",""ts"":""2025-10-03T18:38:00.000Z""}],""layout"":[],""digitacao"":[],""diagramacao"":[],""revisao"":[],""aprovacao"":[],""encerramento"":[],""site"":[],""cancelado"":[]}}]",2025-10-02T18:23:11.046Z,2025-10-02T18:38:45.953Z
+
